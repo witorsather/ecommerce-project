@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "02-backend/spring-boot-ecommerce"
+		},
+		{
+			"path": "03-frontend/angular-ecommerce"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
